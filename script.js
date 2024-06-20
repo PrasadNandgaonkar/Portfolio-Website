@@ -1,3 +1,4 @@
+const web3FormsAccessKey = process.env.WEB3_FORMS_ACCESS_KEY;
 $(document).ready(function() {
 
     //sticky header
